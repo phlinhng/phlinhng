@@ -1,7 +1,10 @@
-### Hi there 👋
+- 世界無政府主義者、無神論者
+- zh-Hant, zh-Hans, en, es
 
 <!--
 **phlinhng/phlinhng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=phlinhng)
 
 Here are some ideas to get you started:
 
